@@ -16,32 +16,30 @@ Este proyecto analiza las canciones de un artista específico en Spotify utiliza
 
 ## 💻 Instalación
 
-**1. Clona el repositorio:**```
-    - ```git clone https://github.com/miguelASL/analisis-datos-artistas-spotify.git```
-    - ```cd analisis-datos-artistas-spotify```
+**1. Clona el repositorio:**
+- ```git clone https://github.com/miguelASL/analisis-datos-artistas-spotify.git```
+- ```cd analisis-datos-artistas-spotify```
       
-
 **2. Instala los paquetes requeridos:**
-    - ```pip install spotipy pandas plotly```
+- ```pip install spotipy pandas plotly```
 
 **3. Obtén tus credenciales de la API de Spotify creando una aplicación en el [Panel de Desarrolladores de Spotify](https://developer.spotify.com/). Configura el `client_id` y `client_secret` en el script.**
 
 ## 📚 Uso
 
 **1. Configura tus credenciales de la API de Spotify:**
-   -  ```client_id = "tu_client_id"```
+   - ```client_id = "tu_client_id"```
    - ```client_secret = "tu_client_secret"```
     
-
 **2. Ejecuta el script:**
     
-- python main.py
+- ```python main.py```
 
 **3. Introduce el nombre del artista que deseas analizar cuando se te pida.**
 
 ## 🌟 Ejemplo
 
-Para analizar las canciones de la artista Karol G, el script recupera los datos de la artista, procesa los álbumes y las canciones, y visualiza las canciones más populares y las más largas.
+Para analizar las canciones de la artista **Karol G**, el script recupera los datos de la artista, procesa los álbumes y las canciones, y visualiza las canciones más populares y las más largas.
 
 ## 📊 Visualización
 
