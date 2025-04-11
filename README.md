@@ -72,6 +72,6 @@ Este proyecto está licenciado bajo la Licencia MIT.
 
 **Email**: [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:msarmientolevy@gmail.com)
 
-**LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-sarmiento-)
+**LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-sarmiento-levy)
 
 **Enlace del Proyecto**: [![Repo](https://img.shields.io/badge/Repository-%23121011.svg?logo=github&logoColor=white)](https://github.com/miguelASL/analisis_sportify)
